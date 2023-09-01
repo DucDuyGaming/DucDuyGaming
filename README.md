@@ -1,16 +1,13 @@
-### Hi there 👋
+### My name is DucDuyGaming (real name: Nguyễn Đức Duy)
+I created this account just to help translating a discord bot (GiveawayBot) into my first language, Vietnamese, without speaking up first. Here is a fun fact about me
 
-<!--
-**DucDuyGaming/DucDuyGaming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Contribute in translating Team Fortress 2 on Crowdin and Alien Swarm: Reactive Drop on GitHub to Vietnamese. Also managing the Left 4 Dead Wiki on Fandom under the name "Randompeeponinternet"
+- Suffering at school a lot
+- Like to play the same game over and over again and leaving some decent game I already bought to gather dust in the Steam library
+- Like to mix "anime" and "non-anime" contents whenever given a chance
+- Is a host of a personal, private worst recurring series that is related to said action, and wish to record and share footages of said action if I have a good devices and recorder. The only thing I will worry for doing that is copyright, screw that
+- Prefer to play Mann vs Machine on Team Fortress 2 instead of regular gameplays
+- Can speak English and Vietnamese
+- A Vietnamese immigrant that currently reside in Sweden. Speak Swedish horribly though, despite living here for years. This is what I get for gaming a lot I guess
+- Is still terrible at coding, for now
+- Want to make game and music one day
