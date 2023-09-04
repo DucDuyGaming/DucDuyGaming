@@ -1,7 +1,7 @@
 ### My name is DucDuyGaming (real name: Nguyễn Đức Duy)
-I created this account just to help translating a discord bot (GiveawayBot) into my first language, Vietnamese, without speaking up first. Here is a fun fact about me
+I created this account just to help translating a discord bot (GiveawayBot) into my first language, Vietnamese, without speaking up first. Here is a fun fact about me:
 
-- Contribute in translating Team Fortress 2 on Crowdin and Alien Swarm: Reactive Drop on GitHub to Vietnamese. Also managing the Left 4 Dead Wiki on Fandom under the name "Randompeeponinternet"
+- Contribute in translating some video games. Also managing the Left 4 Dead Wiki on Fandom under the name "Randompeeponinternet", sometimes contributing a lot
 - Suffering at school a lot
 - Like to play the same game over and over again and leaving some decent game I already bought to gather dust in the Steam library
 - Like to mix "anime" and "non-anime" contents whenever given a chance
